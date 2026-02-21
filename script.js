@@ -1,5 +1,6 @@
 class Carro {
-    constructor(marca,fabricante) {
+    constructor(marca,fabricante) {}
+        this.fabricante = fabricante;
         this.marca = marca;
     }
 
